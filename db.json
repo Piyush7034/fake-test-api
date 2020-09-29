@@ -1,6 +1,5 @@
 {
-  "users": {
-    "data": [
+  "users": [
       {
         "id": 1,
         "first_name": "John",
@@ -83,10 +82,7 @@
         "id": 5
       }
     ],
-  },
-  
-  "companies": {
-    "data": [
+  "companies": [
       {
         "id": "1",
         "name": "Apple",
@@ -103,6 +99,4 @@
         "description": "Google was founded by Larry Page and Sergey Brin while they were students at Stanford University. The company was officially launched in September, 1998 in a friend's garage. ... The official mission statement of the company is to “organize the world's information and make it universally accessible and useful"
       }
     ]
-  }
-  
 }
