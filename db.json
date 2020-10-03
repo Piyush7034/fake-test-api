@@ -2,8 +2,8 @@
   "users": [
       {
         "id": 1,
-        "first_name": "John",
-        "last_name": "Doe",
+        "firstName": "John",
+        "lastName": "Doe",
         "email": "john@gmail.com",
         "age": 34,
         "gender": "male",
