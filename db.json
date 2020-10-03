@@ -66,8 +66,8 @@
         }
       },
       {
-        "first_name": "Piyush",
-        "last_name": "Shukla",
+        "firstName": "Piyush",
+        "lastName": "Shukla",
         "email": "piyush@conatus.com",
         "age": 34,
         "gender": "male",
