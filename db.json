@@ -85,7 +85,32 @@
   
   "projects": [],
 
-  "dailyUpdates": []
+  "dailyUpdates": [
+    {
+      "id": 1,
+      "userId": 1,
+      "date": "04-10-2020",
+      "message": "This is a update."
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "date": "04-10-2020",
+      "message": "This is a update."
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "date": "04-10-2020",
+      "message": "This is a update."
+    },
+    {
+      "id": 4,
+      "userId": 4,
+      "date": "04-10-2020",
+      "message": "This is a update."
+    }
+  ]
   
 
      
