@@ -83,7 +83,100 @@
       }
     ],
   
-  "projects": [],
+  "projects": [
+    {
+      "id": 1,
+      "name": "Dashboard",
+      "tech": ["Flutter", "Node Js", "React Js"],
+      "members": [
+        {
+          "userId": 1,
+          "userName": "ABC"
+        },
+        {
+          "userId": 2,
+          "userName": "DEF"
+        },
+        {
+          "userId": 3,
+          "userName": "GHI"
+        },
+        {
+          "userId": 4,
+          "userName": "JKL"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Event",
+      "tech": ["Flutter", "Node Js", "React Js"],
+      "members": [
+        {
+          "userId": 1,
+          "userName": "ABC"
+        },
+        {
+          "userId": 2,
+          "userName": "DEF"
+        },
+        {
+          "userId": 3,
+          "userName": "GHI"
+        },
+        {
+          "userId": 4,
+          "userName": "JKL"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Connect",
+      "tech": ["Flutter", "Node Js", "React Js"],
+      "members": [
+        {
+          "userId": 1,
+          "userName": "ABC"
+        },
+        {
+          "userId": 2,
+          "userName": "DEF"
+        },
+        {
+          "userId": 3,
+          "userName": "GHI"
+        },
+        {
+          "userId": 4,
+          "userName": "JKL"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Conatus",
+      "tech": ["Flutter", "Node Js", "React Js"],
+      "members": [
+        {
+          "userId": 1,
+          "userName": "ABC"
+        },
+        {
+          "userId": 2,
+          "userName": "DEF"
+        },
+        {
+          "userId": 3,
+          "userName": "GHI"
+        },
+        {
+          "userId": 4,
+          "userName": "JKL"
+        }
+      ]
+    }
+  ],
 
   "dailyUpdates": [
     {
