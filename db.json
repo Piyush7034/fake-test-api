@@ -323,5 +323,139 @@
         "name": "MNOP"
       }
     }
-  ]   
+  ],
+  "attendance": [
+    {
+      "user": {
+        "id": 1,
+        "name": "ABCD"
+      },
+      "record": {
+        "01-10-2020": {
+          "time_in": "4:00 P.M.",
+          "time_out": "6:00 P.M",
+          "status": "Present"
+        },
+        "02-10-2020": {
+          "time_in": "4:00 P.M.",
+          "time_out": "6:00 P.M",
+          "status": "Present"
+        },
+        "03-10-2020": {
+          "time_in": "4:00 P.M.",
+          "time_out": "6:00 P.M",
+          "status": "Present"
+        },
+        "04-10-2020": {
+          "time_in": "4:00 P.M.",
+          "time_out": "6:00 P.M",
+          "status": "Present"
+        },
+        "05-10-2020": {
+          "time_in": "4:00 P.M.",
+          "time_out": "6:00 P.M",
+          "status": "Present"
+        }
+      } 
+    },
+    {
+      "user": {
+        "id": 2,
+        "name": "EFGH"
+      },
+      "record": {
+        "01-10-2020": {
+          "time_in": "4:00 P.M.",
+          "time_out": "6:00 P.M",
+          "status": "Present"
+        },
+        "02-10-2020": {
+          "time_in": "4:00 P.M.",
+          "time_out": "6:00 P.M",
+          "status": "Present"
+        },
+        "03-10-2020": {
+          "time_in": "4:00 P.M.",
+          "time_out": "6:00 P.M",
+          "status": "Present"
+        },
+        "04-10-2020": {
+          "time_in": "4:00 P.M.",
+          "time_out": "6:00 P.M",
+          "status": "Present"
+        },
+        "05-10-2020": {
+          "time_in": "4:00 P.M.",
+          "time_out": "6:00 P.M",
+          "status": "Present"
+        }
+      } 
+    },
+    {
+      "user": {
+        "id": 3,
+        "name": "IJKL"
+      },
+      "record": {
+        "01-10-2020": {
+          "time_in": "4:00 P.M.",
+          "time_out": "6:00 P.M",
+          "status": "Present"
+        },
+        "02-10-2020": {
+          "time_in": "4:00 P.M.",
+          "time_out": "6:00 P.M",
+          "status": "Present"
+        },
+        "03-10-2020": {
+          "time_in": "4:00 P.M.",
+          "time_out": "6:00 P.M",
+          "status": "Present"
+        },
+        "04-10-2020": {
+          "time_in": "4:00 P.M.",
+          "time_out": "6:00 P.M",
+          "status": "Present"
+        },
+        "05-10-2020": {
+          "time_in": "4:00 P.M.",
+          "time_out": "6:00 P.M",
+          "status": "Present"
+        }
+      } 
+    },
+    {
+      "user": {
+        "id": 4,
+        "name": "MNOP"
+      },
+      "record": {
+        "01-10-2020": {
+          "time_in": "4:00 P.M.",
+          "time_out": "6:00 P.M",
+          "status": "Present"
+        },
+        "02-10-2020": {
+          "time_in": "4:00 P.M.",
+          "time_out": "6:00 P.M",
+          "status": "Present"
+        },
+        "03-10-2020": {
+          "time_in": "4:00 P.M.",
+          "time_out": "6:00 P.M",
+          "status": "Present"
+        },
+        "04-10-2020": {
+          "time_in": "4:00 P.M.",
+          "time_out": "6:00 P.M",
+          "status": "Present"
+        },
+        "05-10-2020": {
+          "time_in": "4:00 P.M.",
+          "time_out": "6:00 P.M",
+          "status": "Present"
+        }
+      } 
+    }
+  ]
 }
