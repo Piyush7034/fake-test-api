@@ -180,28 +180,148 @@
 
   "dailyUpdates": [
     {
-      "id": 1,
-      "userId": 1,
+      "id": 1,    
       "date": "04-10-2020",
-      "message": "This is a update."
+      "message": "This is a update.",
+      "user": {
+        "id": 1,
+        "name": "ABCD"
+      }
     },
     {
-      "id": 2,
-      "userId": 2,
+      "id": 2,     
       "date": "04-10-2020",
-      "message": "This is a update."
+      "message": "This is a update.",
+      "user": {
+        "id": 1,
+        "name": "ABCD"
+      }
     },
     {
-      "id": 3,
-      "userId": 3,
+      "id": 3,     
       "date": "04-10-2020",
-      "message": "This is a update."
+      "message": "This is a update.",
+      "user": {
+        "id": 1,
+        "name": "ABCD"
+      }
     },
     {
       "id": 4,
-      "userId": 4,
       "date": "04-10-2020",
-      "message": "This is a update."
+      "message": "This is a update.",
+      "user": {
+        "id": 1,
+        "name": "ABCD"
+      }
+    },
+    {
+      "id": 5,    
+      "date": "04-10-2020",
+      "message": "This is a update.",
+      "user": {
+        "id": 2,
+        "name": "EFGH"
+      }
+    },
+    {
+      "id": 6,     
+      "date": "04-10-2020",
+      "message": "This is a update.",
+      "user": {
+        "id": 2,
+        "name": "EFGH"
+      }
+    },
+    {
+      "id": 7,     
+      "date": "04-10-2020",
+      "message": "This is a update.",
+      "user": {
+        "id": 2,
+        "name": "EFGH"
+      }
+    },
+    {
+      "id": 8,
+      "date": "04-10-2020",
+      "message": "This is a update.",
+      "user": {
+        "id": 2,
+        "name": "EFGH"
+      }
+    },
+    {
+      "id": 9,    
+      "date": "04-10-2020",
+      "message": "This is a update.",
+      "user": {
+        "id": 3,
+        "name": "IJKL"
+      }
+    },
+    {
+      "id": 10,     
+      "date": "04-10-2020",
+      "message": "This is a update.",
+      "user": {
+        "id": 3,
+        "name": "IJKL"
+      }
+    },
+    {
+      "id": 11,     
+      "date": "04-10-2020",
+      "message": "This is a update.",
+      "user": {
+        "id": 3,
+        "name": "IJKL"
+      }
+    },
+    {
+      "id": 12,
+      "date": "04-10-2020",
+      "message": "This is a update.",
+      "user": {
+        "id": 3,
+        "name": "IJKL"
+      }
+    },
+    {
+      "id": 13,    
+      "date": "04-10-2020",
+      "message": "This is a update.",
+      "user": {
+        "id": 4,
+        "name": "MNOP"
+      }
+    },
+    {
+      "id": 14,     
+      "date": "04-10-2020",
+      "message": "This is a update.",
+      "user": {
+        "id": 4,
+        "name": "MNOP"
+      }
+    },
+    {
+      "id": 15,     
+      "date": "04-10-2020",
+      "message": "This is a update.",
+      "user": {
+        "id": 4,
+        "name": "MNOP"
+      }
+    },
+    {
+      "id": 16,
+      "date": "04-10-2020",
+      "message": "This is a update.",
+      "user": {
+        "id": 4,
+        "name": "MNOP"
+      }
     }
   ]   
 }
